@@ -1,0 +1,6 @@
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\Advanced C#\Attributes\Attributes\SalesOrderLib\bin\Debug\SalesOrderLib.dll
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\Advanced C#\Attributes\Attributes\SalesOrderLib\bin\Debug\SalesOrderLib.pdb
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\Advanced C#\Attributes\Attributes\SalesOrderLib\obj\Debug\SalesOrderLib.csprojAssemblyReference.cache
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\Advanced C#\Attributes\Attributes\SalesOrderLib\obj\Debug\SalesOrderLib.csproj.CoreCompileInputs.cache
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\Advanced C#\Attributes\Attributes\SalesOrderLib\obj\Debug\SalesOrderLib.dll
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\Advanced C#\Attributes\Attributes\SalesOrderLib\obj\Debug\SalesOrderLib.pdb
